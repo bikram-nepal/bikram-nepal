@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about life!!
 - 📫 How to reach me: Github
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am planning to open a dairy farm.
+- ⚡ Fun fact: I am a handsome boy.
 
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bikram-nepal&" alt="bikram-nepal" /></p>
